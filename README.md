@@ -1,2 +1,2 @@
 # PysparkETLexamples
-collecting various pyspark ETL coding examples for pyspark developers reference
+Preparing various pyspark ETL coding examples for pyspark developers reference
